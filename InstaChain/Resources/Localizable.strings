@@ -1,0 +1,27 @@
+"General.Action.Ok" = "OK";
+"General.Action.Cancel" = "Cancel";
+
+"FieldValidation.Error.Empty" = "Shouldn't be empty";
+"FieldValidation.Error.InvalidEmail" = "Invalid email";
+"FieldValidation.Error.ShortPassword" = "Should equal or more than 6 characters";
+"FieldValidation.Error.ConfirmPassword" = "Must be the same as password";
+"ResetPassword.SentEmail" = "Please check your mailbox for further instruction";
+"SignUp.Error.AgreeTerms" = "Please accept terms to continue";
+
+"Post.Status.Uploading" = "Uploading...";
+"Post.Status.Posting" = "Posting...";
+
+"Post.Error.Fetch" = "Unable to fetch. Please try again later";
+"Post.Error.Encode" = "Invalid data";
+"Post.Error.Image" = "Invalid image. Please select a valid image";
+"Post.Error.Upload" = "Unable to upload. Please try again later";
+"Post.Error.Post" = "Unable to post. Please try again later";
+"Post.Error.Unknown" = "Unknown error occurred";
+
+"Profile.Photo.Title" = "Profile Photo";
+"Profile.Photo.Add" = "Add Photo";
+"Profile.Photo.Change" = "Change Photo";
+"Profile.Update.Status.Uploading" = "Uploading...";
+"Profile.Update.Status.Updating" = "Updating...";
+"Profile.Error.Fetch" = "Unable to fetch profile. Please try again later";
+"Profile.Error.NoUser" = "Profile doesn't exist";

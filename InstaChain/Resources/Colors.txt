@@ -1,0 +1,9 @@
+TabBarIcon: #A5A5A5
+TabBarHighlightIcon: #FFFFFF
+TabBarBackdrop: #25272A
+TabBarHighlightBackdrop: #161819
+
+TabBarSpecialIcon: #FFFFFF
+TabBarSpecialHighlightIcon: #FFFFFF
+TabBarSpecialBackdrop: #115688
+TabBarSpecialHighlightBackdrop: #161819
